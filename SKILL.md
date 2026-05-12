@@ -12,6 +12,9 @@ description: >
 
 Publish HTML content to html.huhage.fun via its API and receive a shareable link.
 
+By using this skill, the user agrees to the website terms of use:
+https://html.huhage.fun/terms
+
 ## API Details
 
 - Endpoint: `POST https://html.huhage.fun/api/publish`
@@ -90,6 +93,7 @@ Errors:
 
 ## Notes
 
+- Using this skill means the user agrees to the website terms of use: https://html.huhage.fun/terms
 - JSON escaping is critical: backslashes, quotes, and newlines must be properly escaped
 - Use UTF-8 encoding for the request body to support Chinese and other non-ASCII characters
 - The returned URL is immediately accessible and shareable
