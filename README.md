@@ -13,6 +13,14 @@
 使用本 Skill 即表示用户同意网站服务条款：
 https://html.huhage.fun/terms
 
+### 安装
+
+告诉 AI 或 Agent：
+
+```text
+请帮我从 GitHub 安装 html-share skill：https://github.com/HUHAGE/html-share-skills.git
+```
+
 ### 能做什么
 
 - 发布 HTML 页面、单页应用、小游戏、交互式 Demo 或网页原型
@@ -46,6 +54,14 @@ It works with Codex and other agents that can use Skills, scripts, or tool calls
 
 By using this Skill, the user agrees to the website terms of use:
 https://html.huhage.fun/terms
+
+### Installation
+
+Tell the AI or agent:
+
+```text
+Please install the html-share skill from GitHub: https://github.com/HUHAGE/html-share-skills.git
+```
 
 ### What It Does
 
